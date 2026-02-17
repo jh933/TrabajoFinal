@@ -3,3 +3,19 @@ h1{
     font-size: 28px;
     text-align: center;
 }
+
+.parrafo01{
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+}
+#parrafo02{
+    color: rgb(9, 25, 247);
+    font-size: 20px;
+    text-align: center;
+}
+#parrafo03{
+    color: rgb(9, 25, 247);
+    font-size: 18px;
+    text-align: center;
+}
