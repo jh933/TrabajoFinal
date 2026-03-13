@@ -1,21 +1,54 @@
-h1{
-    color: red;
-    font-size: 28px;
-    text-align: center;
+body {
+    background-color:#F1F8E9;
+    font-family:Arial;
+    margin:0;
+}
+header{
+    background:#2E7D32;
+    color:white;
+    text-align:center;
+    padding:20px;
 }
 
-.parrafo01{
-    color: blue;
-    font-size: 24px;
-    text-align: center;
+nav{
+    background:#66BB6A;
+    padding:10px;
+    text-align:center;
 }
-#parrafo02{
-    color: rgb(9, 25, 247);
-    font-size: 20px;
-    text-align: center;
+
+nav a{
+    margin:10px;
+    text-decoration:none;
+    color:white;
+    font-weight:bold;
 }
-#parrafo03{
-    color: rgb(9, 25, 247);
-    font-size: 18px;
-    text-align: center;
+
+nav a:hover{
+    color:yellow;
+}
+
+section{
+    padding:20px;
+}
+
+img{
+    margin:10px;
+    border-radius:10px;
+}
+
+table{
+    margin-top:20px;
+    border-collapse:collapse;
+}
+
+th,td{
+    padding:10px;
+}
+
+footer{
+    background:#2E7D32;
+    color:white;
+    text-align:center;
+    padding:10px;
+    margin-top:30px;
 }
